@@ -33,11 +33,11 @@ const questions = [
         name:"license",
         choices:[
             "MIT",
-            "Apache License 2.0",
-            "GNU GPLv3",
-            "GNU GPLv2",
+            "Apache_License-2.0",
+            "GNU_GPLv3",
+            "GNU_GPLv2",
             "ISC",
-            "Mozilla Public 2.0"
+            "Mozilla_Public_2.0"
         ],
         message:"What license does the project fall under?"
     },
@@ -93,7 +93,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 `,
 `
-Apache License
+Apache-License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION

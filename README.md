@@ -1,5 +1,5 @@
 
-![Badge](https://img.shields.io/badge/License-GNU GPLv3-green)
+![Badge](https://img.shields.io/badge/License-GNU_GPLv3-green)
 
 ### Table of Contents 
 
@@ -29,7 +29,7 @@ N/A
 
 ## License 
 
-This project uses the GNU GPLv3 license
+This project uses the GNU_GPLv3 license
 
 [License file](LICENSE.txt)
 ## How to contribute
